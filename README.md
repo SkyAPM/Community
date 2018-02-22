@@ -3,7 +3,7 @@ SkyWalking related resources provided by community.
 
 ## Public speakings
 - 2018
-  * (Preparing) [演讲：SkyWalking的发展之路——从无名小卒到拥抱全球 | The development of SkyWalking in CN, QCon Beijing, 2018](https://2018.qconbeijing.com/presentation/445) by [@wu-sheng](https://github.com/wu-sheng)
+  * (Preparing) [演讲：SkyWalking的发展之路——从无名小卒到拥抱全球 | The development of SkyWalking in CN, QCon Beijing, 2018](https://2018.qconbeijing.com/presentation/445) by [@wu-sheng](https://github.com/wu-sheng)
 
 ## Videos
 - 2018
