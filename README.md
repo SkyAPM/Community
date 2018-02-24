@@ -13,6 +13,7 @@ SkyWalking related resources provided by community.
 
 ## Articles
 - 2017
+  * [SkyWalking 3.x 源码解析 | SkyWalking插件机制javaAgent工具ByteBuddy的应用](http://www.kailing.pub/article/index/arcid/178.html) by [@kl](https://github.com/klboke)
   * [SkyWalking 3.x 源码解析 | Guides for reading SkyWalking 3.x source codes in CN](http://www.iocoder.cn/categories/SkyWalking/) by [@YunaiV](https://github.com/YunaiV)
 
 # Contributing
