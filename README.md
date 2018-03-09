@@ -3,7 +3,7 @@ SkyWalking related resources provided by community.
 
 ## Public speakings
 - 2018
-  * (Preparing) [演讲：SkyWalking的发展之路——从无名小卒到拥抱全球 | The development of SkyWalking in CN, QCon Beijing, 2018](https://2018.qconbeijing.com/presentation/445) by [@wu-sheng](https://github.com/wu-sheng)
+  * (Preparing) 演讲：SkyWalking的发展之路——从无名小卒到拥抱全球 | The development of SkyWalking in CN, [QCon Beijing, 2018](https://2018.qconbeijing.com/presentation/445) by [@wu-sheng](https://github.com/wu-sheng)
   * (Preparing) “未来已来”--GraphQL在SkyWalking 5.0中的实践 | GraphQL in SkyWalking 5.0 in CN. [Outline](/vidoes/1.GraphQL-in-SkyWalking.md). by [@hanahmily](https://github.com/hanahmily). [OSC Shengzhen 2018](https://www.oschina.net/event/2274785), China.
 
 ## Videos
