@@ -17,6 +17,9 @@ SkyWalking related resources provided by community.
   * [SkyWalking 3.x 插件机制javaAgent工具ByteBuddy的应用](http://www.kailing.pub/article/index/arcid/178.html) by [@kl](https://github.com/klboke)
   * [SkyWalking 3.x 源码解析 | Guides for reading SkyWalking 3.x source codes in CN](http://www.iocoder.cn/categories/SkyWalking/) by [@YunaiV](https://github.com/YunaiV)
   * [利用Skywalking-netcore监控你的应用性能](https://www.jianshu.com/p/3ddd986c7581) by [@carterHe](https://github.com/carterHe)
+- 2018
+  * [Apache SkyWalking 为.NET Core带来开箱即用的分布式追踪和应用性能监控](http://blog.liuhaoyang.me/skywalking/2018/05/23/skywalking-dotnet-v02-release/) by [@liu-haoyang](https://github.com/liuhaoyang)
+  * [Apache SkyWalking provides open source APM and distributed tracing in .NET Core field](https://medium.com/@AsfSkyWalking/apache-skywalking-provides-open-source-apm-and-distributed-tracing-in-net-core-field-ee4eca9f4f54) by [@wu-sheng](https://github.com/wu-sheng)
 
 # Contributing
 Anyone can update the lists though pull requests, the only requirements are: 
