@@ -12,11 +12,11 @@ SkyWalking related resources provided by community.
 
 ## Videos
 - 2018
-  * SkyWalking & Zipkin 2018 Meetup Beijing. [Video](https://www.itdks.com/eventlist/detail/2375)
-  * Techenical choices of Apache SkyWalking. [Video](https://www.itdks.com/dakalive/detail/13626)
-  * The GraphQL in SkyWalking. [Video](https://www.itdks.com/dakalive/detail/10557)
-  * SkyWalking的技术架构 | SkyWalking architecture in CN. [Video](http://www.itdks.com/dakalive/detail/9913) by [@peng-yongsheng](https://github.com/peng-yongsheng)
-  * 使用Skywalking实现全链路监控 | Using SkyWalking to trace distributed system in CN. [Video](http://www.itdks.com/dakalive/detail/6179) by [@wu-sheng](https://github.com/wu-sheng)
+  * SkyWalking & Zipkin 2018 Meetup Beijing. [CN Video](https://www.itdks.com/eventlist/detail/2375)
+  * Techenical choices of Apache SkyWalking. [CN Video](https://www.itdks.com/dakalive/detail/13626)
+  * The GraphQL in SkyWalking. [CN Video](https://www.itdks.com/dakalive/detail/10557)
+  * SkyWalking的技术架构 | SkyWalking architecture. [CN Video](http://www.itdks.com/dakalive/detail/9913) by [@peng-yongsheng](https://github.com/peng-yongsheng)
+  * 使用Skywalking实现全链路监控 | Using SkyWalking to trace distributed system. [CN Video](http://www.itdks.com/dakalive/detail/6179) by [@wu-sheng](https://github.com/wu-sheng)
 
 ## Articles
 - 2017
