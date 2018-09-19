@@ -27,6 +27,7 @@ SkyWalking related resources provided by community.
   * [Apache SkyWalking 为.NET Core带来开箱即用的分布式追踪和应用性能监控](http://blog.liuhaoyang.me/skywalking/2018/05/23/skywalking-dotnet-v02-release/) by [@liu-haoyang](https://github.com/liuhaoyang)
   * [Apache SkyWalking provides open source APM and distributed tracing in .NET Core field](https://medium.com/@AsfSkyWalking/apache-skywalking-provides-open-source-apm-and-distributed-tracing-in-net-core-field-ee4eca9f4f54) by [@wu-sheng](https://github.com/wu-sheng)
    * [使用docker-compose 一键部署你的分布式调用链跟踪框架skywalking](https://www.cnblogs.com/huangxincheng/p/9666930.html) by [@一线码农](https://www.cnblogs.com/huangxincheng)
+   * [Docker镜像:构建用于docker compose、kubernetes运行的docker镜像](https://github.com/JaredTan95/skywalking-docker) by [@JaredTan95](https://github.com/JaredTan95/)
 
 # Contributing
 Anyone can update the lists though pull requests, the only requirements are: 
