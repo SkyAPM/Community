@@ -3,6 +3,7 @@ SkyWalking related resources provided by community.
 
 ## Public speakings
 - 2018
+  * 使用Apache SkyWalking(Incubating) 监控.NET Core微服务 by [Haoyang Liu](https://github.com/liuhaoyang). [NET CORE Community Sharing Activity](https://www.meetup.com/Shanghai-NET-Core-Meetup/events/251436566)
   * Zipkin 与 Apache SkyWalking 共舞——SkyWalking 分析 Zipkin 追踪数据 | Tracing by Zipkin, Apache SkyWalking do analysis and visualize. by [Wu Sheng](https://github.com/wu-sheng). [GOPS Shanghai 2018](https://www.bagevent.com/event/1450060)
   * SkyWalking & Zipkin 2018 Meetup Beijing. (SkyWalking PPMC and Zipkin Leader)
   * Apache SkyWalking(incubating)背后的技术抉择 | Technical choices of Apache SkyWalking(incubating). (June 30) by [@hanahmily](https://github.com/hanahmily). [ElemeTech Inc. open source 28th Conf](https://mp.weixin.qq.com/s/1ZkiJsU5PxurS6Lwea8UFQ) Beijing, China.
@@ -28,6 +29,9 @@ SkyWalking related resources provided by community.
   * [Apache SkyWalking provides open source APM and distributed tracing in .NET Core field](https://medium.com/@AsfSkyWalking/apache-skywalking-provides-open-source-apm-and-distributed-tracing-in-net-core-field-ee4eca9f4f54) by [@wu-sheng](https://github.com/wu-sheng)
    * [使用docker-compose 一键部署你的分布式调用链跟踪框架skywalking](https://www.cnblogs.com/huangxincheng/p/9666930.html) by [@一线码农](https://www.cnblogs.com/huangxincheng)
    * [Docker镜像:构建用于docker compose、kubernetes运行的docker镜像](https://github.com/JaredTan95/skywalking-docker) by [@JaredTan95](https://github.com/JaredTan95/)
+   * [在 ASP.NET Core 中集成 Skywalking APM](https://www.cnblogs.com/savorboard/p/asp-net-core-skywalking.html) by [@savorboard](https://www.cnblogs.com/savorboard/)
+   * [手把手教你搭APM之Skywalking搭建指南(支持Java/C#/Node.js)](https://www.cnblogs.com/liguobao/p/9686310.html) by [@李国宝](https://www.cnblogs.com/liguobao/)
+   * [可能是全网首个支持阿里云Elasticsearch Xapck鉴权的Skywalking](https://www.cnblogs.com/liguobao/p/9784486.html) by [@李国宝](https://www.cnblogs.com/liguobao/)
 
 # Contributing
 Anyone can update the lists though pull requests, the only requirements are: 
