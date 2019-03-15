@@ -10,6 +10,8 @@ SkyWalking related resources provided by community.
   * Give speech @ Linux Foundation LC3 Asia about "Do auto and manual instrumentation in Apache SkyWalking APM" (June 26) by [Wu Sheng](https://github.com/wu-sheng)
   * SkyWalking的发展之路——从无名小卒到拥抱全球 | The development of SkyWalking in CN, [QCon Beijing, 2018](https://2018.qconbeijing.com/presentation/445) by [Wu Sheng](https://github.com/wu-sheng)
   * “未来已来”--GraphQL在SkyWalking 5.0中的实践 | GraphQL in SkyWalking 5.0 in CN. [Outline](/vidoes/1.GraphQL-in-SkyWalking.md). by [@hanahmily](https://github.com/hanahmily). [OSC Shengzhen 2018](https://www.oschina.net/event/2274785), China.
+  * ApacheSkyWalking从分布式追踪到性能监控 [PPT](/ppt/ApacheSkyWalking从分布式追踪到性能监控(成都-彭勇升).pptx) by [@peng-yongsheng](https://github.com/peng-yongsheng)
+  * CNUTCon2018-ApacheSkyWalkingV6.0可定制开源APM [PPT](/ppt/CNUTCon2018-ApacheSkyWalkingV6.0可定制开源APM_彭勇升_v1 2.pptx) by [@peng-yongsheng](https://github.com/peng-yongsheng)
 
 ## Videos
 - 2018
